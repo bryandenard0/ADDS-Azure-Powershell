@@ -179,6 +179,4 @@ Get-ADUser -Filter {LastLogonDate -lt $cutoff -and Enabled -eq $true} -Propertie
 
 ---
 
-Part of a multi-lab IT/cloud portfolio series. Next: **Lab 2 — Azure RBAC** (NTFS file shares + permissions on top of this domain).
-
 `github.com/bryandenard0`
