@@ -28,7 +28,7 @@ Azure Portal → Virtual Machines → Create:
 |---|---|
 | Region | East US |
 | Image | Windows Server 2025 Datacenter — Gen2 |
-| Size | Standard_B2s |
+| Size | Standard_Dsv3 |
 | Inbound ports | RDP (3389) |
 
 ### 2. Install AD DS role
